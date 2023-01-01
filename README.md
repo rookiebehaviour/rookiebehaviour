@@ -3,6 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Virtual Assistant & CSR turned Developer.
 -----------------------------------------
+(Last updated: 01-01-2023)
+### About
 
 I've been learning to code for 2 years. After years of being self-employed PT as a Virtual Assistant and Customer Service Rep for local companies, I decided to change careers. During my years of assisting small business owners find web application solutions (including WordPress web hosting and SaaS), I realized I had a natural knack for implementing open-source software. I was always an app junkie. Especially productivity apps. 
 <br/><br/>
