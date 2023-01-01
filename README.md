@@ -7,6 +7,7 @@ Virtual Assistant & CSR turned Developer.
 I've been learning to code for 2 years. After years of being self-employed PT as a Virtual Assistant and Customer Service Rep for local companies, I decided to change careers. During my years of assisting small business owners find web application solutions (including WordPress web hosting and SaaS), I realized I had a natural knack for implementing open-source software. I was always an app junkie. Especially productivity apps. In December of 2020, I started my coding journey with freeCodeCamp online where I learned full-stack (MERN) Software Development. And in December of 2022, I graduated from SheCodes where I got my certification in Front-end Development.
 
 * 🌍  I'm based in Middletown, Ohio (United States)
+* 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](http://https://jacqueline-mason.netlify.app)
 * 🧠  I'm learning Svelte
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it is my gamer tag 😂
