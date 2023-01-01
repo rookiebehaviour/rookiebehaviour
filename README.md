@@ -12,7 +12,7 @@ In December of 2020, I started my coding journey with freeCodeCamp online where 
 * 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](http://https://jacqueline-mason.netlify.app)
 * 🧠  I'm learning Svelte
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on Playstaion 😂
+* ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on Playstation 😂
 
 ### Skills
 
