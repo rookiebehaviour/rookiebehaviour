@@ -13,7 +13,7 @@ In December of 2020, I started my coding journey with freeCodeCamp online where 
 * 🌍  I'm based in Middletown, Ohio (United States)
 * 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](http://https://jacqueline-mason.netlify.app)
 * 🧠  I'm learning Svelte
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝  I'm open to career opportunities or collaborating on interesting projects
 * ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation 😂
 
 ### Skills
