@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jacqueline Mason
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=80&pause=1000&color=6D9886&center=true&multiline=true&repeat=false&width=435&height=200&lines=Hi%2C+I'm+Jacqueline!;Welcome+to+my+profile+)](https://git.io/typing-svg)
 ========================================================================================================================================
 
 Virtual Assistant & CSR turned Developer.
