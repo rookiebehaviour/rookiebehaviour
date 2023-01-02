@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=80&pause=1000&color=6D9886&center=true&multiline=true&repeat=false&width=435&height=200&lines=Hi%2C+I'm+Jacqueline!;Welcome+to+my+profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=80&pause=1000&color=a855f7&vCenter=true&multiline=true&repeat=false&width=525&height=200&lines=Hi%2C+I'm+Jacqueline!;Welcome+to+my+profile+%F0%9F%92%97)](https://git.io/typing-svg)
 ========================================================================================================================================
 
 Virtual Assistant & CSR turned Developer.
