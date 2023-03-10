@@ -16,7 +16,6 @@
 ###
 
 <h2 align="center">My Toolbox</h2> 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,react,next,vue,materialui,sass,tailwind,mongodb,express,nodejs,figma,vscode,bash,linux" /> 
