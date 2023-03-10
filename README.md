@@ -1,14 +1,37 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Tangerine&size=80&pause=1000&color=a855f7&vCenter=true&multiline=true&repeat=false&width=525&height=200&lines=Hi%2C+I'm+Jacqueline!;Welcome+to+my+profile+%F0%9F%92%97)](https://git.io/typing-svg)
-========================================================================================================================================
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF6E96&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Hello%2C+I'm+Jacqueline+%F0%9F%91%8B%F0%9F%8F%BD;Web+Dev+%26+Ethical+Hacking+Enthusiast)](https://git.io/typing-svg)  <img height="50" src="https://user-images.githubusercontent.com/75797321/224236186-aa5c23b6-23ac-404a-9514-ed840c243ed2.png"  />
 
-Virtual Assistant & CSR turned Developer.
------------------------------------------
+![rookiebehaviour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiebehaviour&theme=dracula&hide_border=false) ![rookiebehaviour's Stats](https://github-readme-stats.vercel.app/api?username=rookiebehaviour&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
 
-### About
 
-I've been a Developer for over 2 years. After years of being self-employed as a Virtual Assistant and Customer Service Rep for local companies, I decided to change careers. During my years of assisting small business owners find web application solutions (including WordPress web hosting and SaaS), I realized I had a natural knack for implementing open-source software. I've always been an app junkie. Especially productivity apps. 
-<br/><br/>
-In December of 2020, I started my coding journey with freeCodeCamp online where I learned full-stack (MERN) Software Development. And in December of 2022, I graduated from SheCodes where I got my certification in Front-end Development.
+### 
+
+<h2 align="center">My Toolbox</h2> 
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjZWU0NGM3MGQ0ZmZiNWI4NTMwODJiYjRiNzAxZTRiMWQyZmRlNCZjdD1n/ZEfAQ1XPrZFb92443G/giphy.gif"  />
+
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,react,next,vue,materialui,sass,tailwind,mongodb,express,nodejs,figma,vscode,bash,linux" /> 
+  </a>
+</p>
+
+###
+
+<div align="left">
+  <a href="https://twitch.tv/rookiebehaviour" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/jacquelinesd/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://codepen.io/jjmason" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  </a>
+</div>
 
 * 🌍  I'm based in Middletown, Ohio (United States)
 * 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](http://https://jacqueline-mason.netlify.app)
@@ -16,31 +39,6 @@ In December of 2020, I started my coding journey with freeCodeCamp online where 
 * 🤝  I'm open to career opportunities or collaborating on interesting projects
 * ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation 😂
 
-### Skills
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rookiebehaviour&bg_color=282a36&color=ffffff&line=60a4bd&point=ff6e96&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/rookiebehaviour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jacquelinesd" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/rookiebehaviour"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rookiebehaviour&stroke=ffffff&background=000000&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/rookiebehaviour" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rookiebehaviour&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/rookiebehaviour"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rookiebehaviour&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
