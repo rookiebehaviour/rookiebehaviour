@@ -1,9 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF6E96&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Hello%2C+I'm+Jacqueline+%F0%9F%91%8B%F0%9F%8F%BD;Web+Dev+%26+Ethical+Hacking+Enthusiast)](https://git.io/typing-svg)  <img height="50" src="https://user-images.githubusercontent.com/75797321/224236186-aa5c23b6-23ac-404a-9514-ed840c243ed2.png"  />
 
-![rookiebehaviour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiebehaviour&theme=dracula&hide_border=false) ![rookiebehaviour's Stats](https://github-readme-stats.vercel.app/api?username=rookiebehaviour&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
-
 
 ### 
+
+* 🌍  I'm based in Middletown, Ohio (United States)
+* 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](http://https://jacqueline-mason.netlify.app)
+* 🧠  I'm learning Svelte <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="16" height="16" alt="Svelte" /></a>
+* 🤝  I'm open to career opportunities or collaborating on interesting projects
+* ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation 😂
+
+###
 
 <h2 align="center">My Toolbox</h2> 
 
@@ -33,11 +39,10 @@
   </a>
 </div>
 
-* 🌍  I'm based in Middletown, Ohio (United States)
-* 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](http://https://jacqueline-mason.netlify.app)
-* 🧠  I'm learning Svelte <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="16" height="16" alt="Svelte" /></a>
-* 🤝  I'm open to career opportunities or collaborating on interesting projects
-* ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation 😂
+
+
+
+![rookiebehaviour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiebehaviour&theme=dracula&hide_border=false) ![rookiebehaviour's Stats](https://github-readme-stats.vercel.app/api?username=rookiebehaviour&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rookiebehaviour&bg_color=282a36&color=ffffff&line=60a4bd&point=ff6e96&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
