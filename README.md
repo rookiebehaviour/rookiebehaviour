@@ -11,13 +11,11 @@
 
 ###
 
-<h2 align="center">My Toolbox</h2> 
-
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjZWU0NGM3MGQ0ZmZiNWI4NTMwODJiYjRiNzAxZTRiMWQyZmRlNCZjdD1n/ZEfAQ1XPrZFb92443G/giphy.gif"  />
 
 ###
+
+<h2 align="center">My Toolbox</h2> 
 
 <p align="center">
   <a href="https://skillicons.dev">
