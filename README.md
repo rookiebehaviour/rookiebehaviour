@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF6E96&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Hello%2C+I'm+Jacqueline+%F0%9F%91%8B%F0%9F%8F%BD;Web+Dev+%26+Ethical+Hacking+Enthusiast)](https://git.io/typing-svg)  <img height="50" src="https://user-images.githubusercontent.com/75797321/224236186-aa5c23b6-23ac-404a-9514-ed840c243ed2.png"  />
 
-![rookiebehaviour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiebehaviour&theme=dracula&hide_border=false&width=300) ![rookiebehaviour's Stats](https://github-readme-stats.vercel.app/api?username=rookiebehaviour&theme=dracula&show_icons=true&hide_border=false&count_private=true&width=300) 
+![rookiebehaviour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiebehaviour&theme=dracula&hide_border=false) ![rookiebehaviour's Stats](https://github-readme-stats.vercel.app/api?username=rookiebehaviour&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
 
 
 ### 
