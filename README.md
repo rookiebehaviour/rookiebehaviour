@@ -11,18 +11,18 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjZWU0NGM3MGQ0ZmZiNWI4NTMwODJiYjRiNzAxZTRiMWQyZmRlNCZjdD1n/ZEfAQ1XPrZFb92443G/giphy.gif"  />
-
-###
-
 <h2 align="center">My Toolbox</h2> 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,bootstrap,react,next,vue,materialui,sass,tailwind,mongodb,express,nodejs,figma,vscode,bash,linux" /> 
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,next,vue,materialui,tailwind,mongodb,express,nodejs,figma,vscode,bash,linux" /> 
   </a>
 </p>
 
 ###
+
+###
+
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjZWU0NGM3MGQ0ZmZiNWI4NTMwODJiYjRiNzAxZTRiMWQyZmRlNCZjdD1n/ZEfAQ1XPrZFb92443G/giphy.gif"  />
 
 <div align="left">
   <a href="https://twitch.tv/rookiebehaviour" target="_blank">
