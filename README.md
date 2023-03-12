@@ -3,7 +3,7 @@
 
 ### 
 
-* 🌍  I'm based in Middletown, Ohio (United States)
+* 🌍  I'm based in Ohio (United States)
 * 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](http://https://jacqueline-mason.netlify.app)
 * 🧠  I'm learning Svelte <a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="16" height="16" alt="Svelte" /></a>
 * 🤝  I'm open to career opportunities or collaborating on interesting projects
