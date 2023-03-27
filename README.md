@@ -4,7 +4,7 @@
 ### 
 
 * 🌍  I'm based in Ohio (United States)
-* 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](https://https://jacqueline-mason.netlify.app)
+* 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](https://jacqueline-mason.netlify.app)
 * 🧠  I'm learning Ethical Hacking
 * 🤝  I'm open to career opportunities or collaborating on interesting projects
 * ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation 😂
