@@ -41,6 +41,5 @@
 
 ![rookiebehaviour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiebehaviour&theme=dracula&hide_border=false) ![rookiebehaviour's Stats](https://github-readme-stats.vercel.app/api?username=rookiebehaviour&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rookiebehaviour&bg_color=282a36&color=ffffff&line=60a4bd&point=ff6e96&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
