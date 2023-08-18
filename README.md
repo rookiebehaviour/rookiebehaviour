@@ -50,7 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rookiebehaviour/rookiebehaviour/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/rookiebehaviour/rookiebehaviour/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
