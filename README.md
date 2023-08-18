@@ -1,44 +1,78 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF6E96&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Hello%2C+I'm+Jacqueline+%F0%9F%91%8B%F0%9F%8F%BD;A+Web+Developer)](https://git.io/typing-svg)  <img height="50" src="https://user-images.githubusercontent.com/75797321/224236186-aa5c23b6-23ac-404a-9514-ed840c243ed2.png"  />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FF6E96&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Hey%2C+I'm+Jacqueline+%F0%9F%91%8B%F0%9F%8F%BD;A+Web+Developer)](https://git.io/typing-svg)  <img height="50" src="https://user-images.githubusercontent.com/75797321/224236186-aa5c23b6-23ac-404a-9514-ed840c243ed2.png"  />
 
 
-### 
-
-* 🌍  I'm based in Ohio (United States)
-* 🖥️  See my portfolio at [https://jacqueline-mason.netlify.app](https://jacqueline-mason.netlify.app)
-* 🤝  I'm open to career opportunities or collaborating on interesting projects
-* ⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation 😂
 
 ###
 
-<h2 align="center">My Toolbox</h2> 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,react,next,vue,materialui,tailwind,mongodb,express,nodejs,figma,vscode,bash,linux" /> 
-  </a>
-</p>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/ZEfAQ1XPrZFb92443G/giphy.gif"  />
+</div>
 
 ###
 
+<p align="left">🌍  I'm based in Ohio (United States)<br>🖥️  See my portfolio at https://jacqueline-mason.netlify.app<br>🤝  I'm open to career opportunities or collaborating on interesting projects<br>⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation 😂</p>
+
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjZjZWU0NGM3MGQ0ZmZiNWI4NTMwODJiYjRiNzAxZTRiMWQyZmRlNCZjdD1n/ZEfAQ1XPrZFb92443G/giphy.gif"  />
+<h3 align="center">My Toolbox</h3>
+
+###
 
 <div align="left">
-  <a href="https://twitch.tv/rookiebehaviour" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/rookiebehaviour/rookiebehaviour/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rookiebehaviour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookiebehaviour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h3 align="center">My Socials</h3>
+
+###
+
+<div align="center">
   <a href="https://www.linkedin.com/in/jacquelinesd/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://codepen.io/jjmason" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
+  <a href="https://discordapp.com/users/jacqueline.m" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
-
-
-
-![rookiebehaviour's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rookiebehaviour&theme=dracula&hide_border=false) ![rookiebehaviour's Stats](https://github-readme-stats.vercel.app/api?username=rookiebehaviour&theme=dracula&show_icons=true&hide_border=false&count_private=true) 
-
-
+###
 
