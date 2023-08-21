@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=500&color=FF6E96&vCenter=true&multiline=true&repeat=false&width=535&height=100&lines=Hey%2C+I'm+Jacqueline+%F0%9F%91%8B%F0%9F%8F%BD;A+Web+Developer)](https://git.io/typing-svg)  
-
-###
-
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/ZEfAQ1XPrZFb92443G/giphy.gif"  />
 </div>
+
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=FFAADE&multiline=true&repeat=false&width=600&height=125&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Jacqueline...+;JavaScript+%26+.NET+Core+Applications+Dev...;React+-+Vue+-+Next+-+Bootstrap;.NET+Core+Web+Apps++(MVC%2C+Blazor+Server%2C+Entity+FW))](https://git.io/typing-svg)
 
 ###
 
