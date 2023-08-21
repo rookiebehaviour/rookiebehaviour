@@ -1,10 +1,7 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/ZEfAQ1XPrZFb92443G/giphy.gif"  />
+<div >
+  <img height="200" src="https://media.giphy.com/media/ZEfAQ1XPrZFb92443G/giphy.gif"  />    
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&duration=2000&pause=700&color=FFAADE&center=true&multiline=true&repeat=false&width=625&height=125&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Jacqueline...+;JavaScript+%26+.NET+Core+Applications+Dev...;React+-+Vue+-+Next+-+Bootstrap;.NET+Core+Web+Apps++(MVC%2C+Blazor+Server%2C+Entity+FW)" alt="Typing SVG" /></a>
 </div>
-
-###
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=700&color=FFAADE&multiline=true&repeat=false&width=600&height=125&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Jacqueline...+;JavaScript+%26+.NET+Core+Applications+Dev...;React+-+Vue+-+Next+-+Bootstrap;.NET+Core+Web+Apps++(MVC%2C+Blazor+Server%2C+Entity+FW))](https://git.io/typing-svg)
 
 ###
 
@@ -53,8 +50,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rookiebehaviour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookiebehaviour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rookiebehaviour&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rookiebehaviour&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="175" alt="languages graph"  />
 </div>
 
 ###
