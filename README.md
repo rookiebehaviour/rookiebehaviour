@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">🌍  I'm based in Ohio (United States)<br>🖥️  See my portfolio at https://jacqueline-mason.netlify.app<br>🤝  I'm open to career opportunities or collaborating on interesting projects<br>⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation 😂</p>
+<p align="left">🌍  I'm based in Ohio (United States)<br>🖥️  See my portfolio at https://jacqueline-mason.netlify.app<br>🤝  I'm open to career opportunities or collaborating on interesting projects<br>⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation & Steam 😂</p>
 
 ###
 
