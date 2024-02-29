@@ -1,6 +1,6 @@
 <div >
   <img height="200" src="https://media.giphy.com/media/ZEfAQ1XPrZFb92443G/giphy.gif"  />    
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&duration=2000&pause=700&color=FFAADE&center=true&multiline=true&repeat=false&width=625&height=125&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Jacqueline...+;Web+Applications+%26+.NET+Core+Applications+Dev" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Fira+Code&duration=2000&pause=700&color=FFAADE&center=true&multiline=true&repeat=false&width=625&height=125&lines=Hi+%F0%9F%91%8B%F0%9F%8F%BD+I'm+Jacqueline...+;Web+Applications+Dev" alt="Typing SVG" /></a>
 </div>
 
 ###
