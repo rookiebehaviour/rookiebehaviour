@@ -8,8 +8,31 @@
 <p align="left">🌍  I'm based in Ohio (United States)<br>🖥️  See my portfolio at https://jacqueline-mason.netlify.app<br>🤝  I'm open to career opportunities or collaborating on interesting projects<br>⚡  RookieBehaviour? The online community knows me as RookieBehaviour, it's my gamer tag on PlayStation & Steam 😂</p>
 
 ###
+
 <quote>"The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time."
 — Tom Cargill</quote>
+
+###
+
+<div align="center">
+
+```mermaid
+block-beta
+    columns 3
+    doc>"Thanks for visiting!"]:3
+    space down1<[" "]>(down) space
+
+  block:e:3
+          l["I live in Ohio (U.S.)"]
+          m("I love JS & C#")
+          r["Visit my <a href="https://jacqueline-mason.netlify.app">portfolio</a>"]
+    end
+    space down2<[" "]>(down) space
+
+
+```
+
+</div>
 
 ###
 
@@ -70,4 +93,3 @@
 </div>
 
 ###
-
